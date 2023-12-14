@@ -1,5 +1,4 @@
-#WAP for finding optimal solution using Line Search method.
-
+#WAP to solve an LPP graphically
 import pulp as p
 
 Lp_prob = p.LpProblem('Problem', p.LpMinimize)
